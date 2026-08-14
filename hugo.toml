@@ -1,0 +1,18 @@
+baseURL = 'https://你的项目名.pages.dev/'
+languageCode = 'zh-cn'
+title = 'ZZZ的个人博客'
+theme = 'PaperMod'
+
+[params]
+description = "记录生活，分享技术"
+defaultTheme = "auto"
+
+[menu]
+[[menu.main]]
+name = "首页"
+url = "/"
+weight = 1
+[[menu.main]]
+name = "文章"
+url = "/posts"
+weight = 2
