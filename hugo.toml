@@ -1,4 +1,4 @@
-baseURL = 'https://你的项目名.pages.dev/'
+baseURL = 'https://zzz-blog-9tk.pages.dev/'
 languageCode = 'zh-cn'
 title = 'ZZZ的个人博客'
 theme = 'PaperMod'
